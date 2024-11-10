@@ -4,4 +4,4 @@ This project series will teach you all about Devops using real-world hands-on pr
 
 **My Medium profile:** https://medium.com/@akhilesh-mishra
 
-**My LinkedIn profile** https://www.linkedin.com/in/akhilesh-mishra-0ab886124/
+**My LinkedIn profile** https://www.linkedin.com/in/gaurav-rokade-5a32031b5/
